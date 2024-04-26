@@ -30,4 +30,3 @@ Freebayes is a Bayesian variant caller known for its accuracy and sensitivity, p
 # ABRICATE Analysis
 
 ABRICATE to search the assembled genome for acquired antimicrobial resistance (AMR) genes and determine the potential resistance profile of the NTM strain.
-ABRICATE provides a comprehensive resistance gene database and allows you to identify potential mechanisms of resistance to various antibiotics.
