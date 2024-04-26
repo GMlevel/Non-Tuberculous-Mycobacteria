@@ -1,0 +1,28 @@
+/storage/home/mnk5428/work/Anaconda/envs/quast_env/bin/quast.py -o /storage/work/mnk5428/Dr.Zack/Quast_results/V350197172_L01_58_assembly --gene-finding -r /storage/work/mnk5428/Dr.Zack/Ref_genome_M.tuberculosis/ref_genome.fasta /storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_58_assembly.fasta
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-4.18.0-513.18.1.el8_9.x86_64-x86_64-with-glibc2.28 (linux_64)
+  Python version: 3.12.2
+  CPUs number: 8
+
+Started: 2024-04-12 21:51:57
+
+Logging to /storage/work/mnk5428/Dr.Zack/Quast_results/V350197172_L01_58_assembly/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+NOTICE: Maximum number of threads is set to 2 (use --threads option to set it manually)
+
+CWD: /storage/work/mnk5428/Dr.Zack/Scripts
+Main parameters: 
+  MODE: default, threads: 2, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Reference:
+    WARNING: Skipping /storage/work/mnk5428/Dr.Zack/Ref_genome_M.tuberculosis/ref_genome.fasta because file is empty.
+
+ERROR! Reference file /storage/work/mnk5428/Dr.Zack/Ref_genome_M.tuberculosis/ref_genome.fasta is empty or contains incorrect sequences (header-only or with non-ACGTN characters)!
+
+In case you have troubles running QUAST, you can write to quast.support@cab.spbu.ru
+or report an issue on our GitHub repository https://github.com/ablab/quast/issues
+Please provide us with quast.log file from the output directory.

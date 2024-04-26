@@ -1,0 +1,17 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	1	199165	199753	AAC(2')-Ib	1-589/589	===============	0/0	100.00	89.47	card	U41471:265-853
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	1	199166	199708	AAC(2')-Ic	1-531/547	========/======	4/14	96.89	75.55	card	AL123456:314309-314855
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	1	248783	249447	vanRO	37-701/703	===============	0/0	94.59	82.56	card	KF478993:6003-6705
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	11	200082	200846	APH(3'')-Ic	1-765/766	===============	0/0	99.87	78.69	card	DQ336355:603-1368
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	15	281	1527	Mycobacterium_tuberculosis_intrinsic_murA_conferring_resistance_to_fosfomycin	6-1252/1257	===============	0/0	99.20	80.51	card	HE608151:1472986-1474243
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	2	893189	893520	RbpA	1-332/345	===============	0/0	96.23	91.87	card	HQ203032:1-346
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	3	3922	4806	TLE_beta-lactamase	1-885/885	===============	0/0	100.00	85.99	card	L25634:1274-2159
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	3	35001	36427	efpA	160-1589/1593	.=======/======	6/11	89.33	77.20	card	NC_000962.3:3153039-3154632
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	3	736225	736912	mtrA	1-688/688	===============	0/0	100.00	84.74	card	AL123456:3626663-3627350
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	5	22883	23613	Erm(39)	1-731/742	========/======	2/2	98.38	78.14	card	AY487229:2153-2894
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	5	22895	24002	Erm(38)	15-1162/1163	========/======	8/44	95.10	77.56	card	AY154657:1-1162
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	5	428443	429631	Streptomyces_cinnamoneus_EF-Tu_mutants_conferring_resistance_to_elfamycin	1-1192/1194	========/======	6/9	99.33	83.10	card	X98831.1:362-1556
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	7	4653	5914	tap	1-1231/1231	========/======	6/35	99.84	86.16	card	AJ000283:620-1850
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	7	156426	157662	tet(V)	25-1255/1260	========/======	1/6	97.70	82.70	card	AF030344:1-1261
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	8	34097	35591	lrfA	1-1495/1515	========/======	2/2	98.61	81.22	card	U40487.1:171-1686
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_68_assembly.fasta	9	102212	102641	arr-1	1-430/432	===============	0/0	99.54	79.53	card	AF001493:1-433

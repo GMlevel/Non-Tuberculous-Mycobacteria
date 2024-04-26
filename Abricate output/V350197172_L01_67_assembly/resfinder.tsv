@@ -1,0 +1,5 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_67_assembly.fasta	1	414390	414809	erm(38)_1	740-1160/1161	......../======	2/3	36.09	85.31	resfinder	AY154657
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_67_assembly.fasta	14	18900	19663	aph(3'')-Ic_1	2-765/765	========/======	2/2	99.74	76.86	resfinder	DQ336355
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_67_assembly.fasta	3	516620	517213	aac(2')-Ib_1	1-588/588	========/======	2/6	100.00	84.17	resfinder	U41471
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_67_assembly.fasta	7	256772	258003	tet(V)_1	25-1250/1260	========/======	4/8	97.22	82.72	resfinder	AF030344

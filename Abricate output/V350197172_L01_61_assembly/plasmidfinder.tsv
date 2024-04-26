@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_61_assembly.fasta	80	5532	5725	Col(SD853)_1	1-194/194	===============	0/0	100.00	84.02	plasmidfinder	NC_015392
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_61_assembly.fasta	83	3376	3569	Col(SD853)_1	1-194/194	========/======	2/8	97.94	82.83	plasmidfinder	NC_015392

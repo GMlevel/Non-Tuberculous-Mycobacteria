@@ -1,0 +1,23 @@
+Assembly	V350197172_L01_63_assembly
+# contigs (>= 0 bp)	62
+# contigs (>= 1000 bp)	45
+# contigs (>= 5000 bp)	34
+# contigs (>= 10000 bp)	32
+# contigs (>= 25000 bp)	30
+# contigs (>= 50000 bp)	28
+Total length (>= 0 bp)	6452887
+Total length (>= 1000 bp)	6445694
+Total length (>= 5000 bp)	6419903
+Total length (>= 10000 bp)	6408593
+Total length (>= 25000 bp)	6380107
+Total length (>= 50000 bp)	6308549
+# contigs	50
+Largest contig	988653
+Total length	6448892
+GC (%)	66.46
+N50	285130
+N90	96485
+auN	398000.5
+L50	7
+L90	22
+# N's per 100 kbp	0.00

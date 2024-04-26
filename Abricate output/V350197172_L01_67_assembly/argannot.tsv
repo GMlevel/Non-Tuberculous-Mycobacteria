@@ -1,0 +1,5 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_67_assembly.fasta	1	414390	414809	(MLS)Erm38	740-1160/1161	......../======	2/3	36.09	85.31	argannot	AY154657:63-1223
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_67_assembly.fasta	14	18900	19663	(AGly)Aph3''Ic	2-765/765	========/======	2/2	99.74	76.86	argannot	DQ336355:603-1367
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_67_assembly.fasta	3	516620	517213	(AGly)Aac2-Ib	1-588/588	========/======	2/6	100.00	84.17	argannot	U41471:266-822
+/storage/work/mnk5428/Dr.Zack/Assemblies/V350197172_L01_67_assembly.fasta	7	256772	258003	(Tet)TetV	25-1250/1260	========/======	4/8	97.22	82.72	argannot	AF030344:462-1721
