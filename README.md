@@ -21,7 +21,6 @@ BWA offers efficient and accurate mapping, especially for short-read data.
 # Annotation (Prokka)
 
 Prokka to annotate the assembled genome. Prokka predicts gene features (open reading frames, tRNAs, rRNAs) and provides functional annotations based on existing reference databases.
-Prokka annotation facilitates understanding the genetic makeup of the NTM strain and identifying potential virulence factors or antimicrobial resistance genes.
 
 # Variant Calling (Freebayes)
 
