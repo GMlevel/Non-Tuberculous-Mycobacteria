@@ -10,7 +10,7 @@ Unicycler for de novo assembly of the trimmed reads. Unicycler is well-suited fo
 
 # PubMLST
 
-Use PubMLST to identify the specific Mycobacterium species and strain type based on the assembled genome.
+PubMLST to identify the specific Mycobacterium species and strain type based on the assembled genome.
 PubMLST provides a standardized typing scheme for mycobacteria.
 
 # Alignment (BWA)
